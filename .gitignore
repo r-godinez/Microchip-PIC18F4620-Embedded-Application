@@ -1,6 +1,14 @@
 # Prerequisites
 *.d
 
+# Makefile and build related
+Makefile
+*.mk
+nbproject/Makefile*
+nbproject/Package*.bash
+nbproject/private/
+build/
+
 # Object files
 *.o
 *.ko
