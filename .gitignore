@@ -4,9 +4,8 @@
 # Makefile and build related
 Makefile
 *.mk
-nbproject/Makefile*
-nbproject/Package*.bash
-nbproject/private/
+nbproject/
+dist/
 build/
 
 # Object files
